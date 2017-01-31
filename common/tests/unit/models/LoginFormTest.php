@@ -12,7 +12,7 @@ use common\fixtures\User as UserFixture;
 class LoginFormTest extends \Codeception\Test\Unit
 {
     /**
-     * @var \common\tests\UnitTester
+     * @var \frontend\tests\UnitTester
      */
     protected $tester;
 
